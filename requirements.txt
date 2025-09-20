@@ -1,0 +1,5 @@
+exa_py
+cerebras.cloud.sdk
+python-dotenv
+Flask
+google-genai
